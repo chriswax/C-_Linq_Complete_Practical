@@ -1,0 +1,7 @@
+C:\Users\chris\Documents\Citechs\Henry Class\practicals\Linq_Practical\Linq_Practical\bin\Debug\Linq_Practical.exe.config
+C:\Users\chris\Documents\Citechs\Henry Class\practicals\Linq_Practical\Linq_Practical\bin\Debug\Linq_Practical.exe
+C:\Users\chris\Documents\Citechs\Henry Class\practicals\Linq_Practical\Linq_Practical\bin\Debug\Linq_Practical.pdb
+C:\Users\chris\Documents\Citechs\Henry Class\practicals\Linq_Practical\Linq_Practical\obj\Debug\Linq_Practical.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Citechs\Henry Class\practicals\Linq_Practical\Linq_Practical\obj\Debug\Linq_Practical.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Citechs\Henry Class\practicals\Linq_Practical\Linq_Practical\obj\Debug\Linq_Practical.exe
+C:\Users\chris\Documents\Citechs\Henry Class\practicals\Linq_Practical\Linq_Practical\obj\Debug\Linq_Practical.pdb
